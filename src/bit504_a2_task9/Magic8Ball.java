@@ -9,10 +9,13 @@ public class Magic8Ball {
 
         // Print shape
         System.out.println("     _______");
-        System.out.println("   /       \\");
-        System.out.println("  /  MAGIC  \\");
-        System.out.println("  \\   8 BALL /");
-        System.out.println("   \\_______/");
+        System.out.println("    /       \\");
+        System.out.println("   /         \\");
+        System.out.println("  /   MAGIC   \\");
+        System.out.println(" |      8      |");
+        System.out.println("  \\   BALL    /");
+        System.out.println("   \\         /");
+        System.out.println("    \\_______/");
         System.out.println();
 
         // Ask user for a question
