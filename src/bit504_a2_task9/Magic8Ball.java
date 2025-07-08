@@ -11,7 +11,7 @@ public class Magic8Ball {
         System.out.println("     _______");
         System.out.println("   /       \\");
         System.out.println("  /  MAGIC  \\");
-        System.out.println("  \\   8BALL /");
+        System.out.println("  \\   8 BALL /");
         System.out.println("   \\_______/");
         System.out.println();
 
