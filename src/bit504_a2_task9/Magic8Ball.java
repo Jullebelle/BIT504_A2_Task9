@@ -24,10 +24,11 @@ public class Magic8Ball {
 
         // Randomly select one of four responses
         String[] responses = {
-            "Yes – definitely.",
-            "My sources say no.",
-            "Concentrate and ask again.",
-            "Cannot predict now."
+            "✓ Yes – definitely!",
+            "☓ My sources say no.",
+            "☺︎ Concentrate and ask again...",
+            "☹︎ Cannot predict now."
+            "☻ Most likely." //added an extra positive response and some emojis
         };
 
         Random rand = new Random();
